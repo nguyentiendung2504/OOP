@@ -1,4 +1,4 @@
-# Exercise 1 - Think Python Chapter 1
+
 
 # Cau 1: 42 phut 42 giay bang bao nhieu giay
 
